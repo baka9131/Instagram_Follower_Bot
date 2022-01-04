@@ -2,6 +2,11 @@
 
 ![K-002](https://user-images.githubusercontent.com/93738662/148058501-f8ce170e-f09b-443c-b402-766c00b1a9fe.gif)
 
+### 필요한 프로그램
++ ChromeDriver가 필요합니다.
+- 크롬 드라이버 설치 후 driver = webdriver.Chrome('chromedriver',options=options) 코드의 경로를 설정해 주세요 <br> 만약 같은 경로라면 수정 하지 않으셔도 됩니다.
++ https://chromedriver.chromium.org/downloads 공식 설치 홈페이지
+
 ### 인스타그램 팔로우 Bot 입니다.
 제작환경 Jupyter Notebook 이며, 주석처리가 있으므로 쉽게 이해할 수 있습니다. 
 + [ 셀레니움 사용 ]
